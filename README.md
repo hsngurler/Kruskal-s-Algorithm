@@ -4,7 +4,7 @@ Kruskal's Algorithm for Specified Input
 The Example Input file is added to files.
 
 For better explaining;
-81    ------ Number of Nodes
+3    ------ Number of Nodes
 Çanakkale    ---------- Name of Node (or it can be a number)
 2     ------------- Number of Edges for containg Node
 2 5   ------------- First number is to Node, Edge start from Çanakkale in this case first node to second node in this case İstanbul
